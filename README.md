@@ -1,4 +1,4 @@
-# Scout App
+# Mobile Scout App
 
 ## About
 The application was created in <b>React Native</b> for the needs of the scouting game.
